@@ -1,0 +1,6 @@
+{
+  "name": "frameprompt-proxy",
+  "version": "1.0.0",
+  "description": "Anthropic API proxy for Frame + Prompt",
+  "private": true
+}
