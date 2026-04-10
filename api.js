@@ -16,8 +16,7 @@
 const ALLOWED_ORIGINS = [
   "https://frameprompt.com",
   "https://www.frameprompt.com",
-  // Add your Framer preview domain here too, e.g.:
-  // "https://frameprompt.framer.app",
+  "https://itsawrapai.framer.website",  // ← add this
 ];
 
 const RATE_LIMIT_PER_MINUTE = 10;  // max requests per IP per minute
